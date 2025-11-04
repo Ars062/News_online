@@ -1,22 +1,22 @@
 📰 NewsOnline
-A modern, responsive news application built with React that delivers the latest news across various categories.
+https://raw.githubusercontent.com/Ars062/News_online/main/news.png
 
-https://github.com/Ars062/News_online/blob/main/news.png
+A modern news application built with React and Bootstrap.
 
 ✨ Features
-📱 Responsive Design - Works perfectly on all devices
+📱 Responsive design for all devices
 
-🗂️ Category Filter - Browse news by Technology, Business, Health, Sports, and Entertainment
+🗂️ Multiple news categories
 
-🎨 Modern UI - Dark theme with Bootstrap styling
+🎨 Dark theme UI with Bootstrap
 
-⚡ Fast Loading - Optimized performance with React hooks
+⚡ Fast loading with React hooks
 
 🛠️ Tech Stack
-Frontend: React, Bootstrap
+React
 
-State Management: React Hooks (useState, useEffect)
+Bootstrap
 
-API: NewsAPI integration ready
+Vite
 
-Build Tool: Vite
+NewsAPI
